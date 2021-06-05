@@ -261,7 +261,7 @@ calor_especifico_variable=[]
 energias_varias_veces=[]
 
 magnetizacion_varias_veces=[]
-while kbt_variable<=2:
+while kbt_variable<=5:
     U_2=0
     energias_varias_veces=[]
     magnetizacion_varias_veces=[]
